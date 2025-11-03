@@ -7,5 +7,6 @@ I'm a passionate tech enthusiast who loves exploring the world of **web developm
 - 🚀 Projects: Web apps, portfolio site, basic security tools (see pinned repos!)
 - 🔗 Portfolio: [My Website](https://ankit-29.netlify.app)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-prajapati29/)
+- 🔗 Follow me on [X](https://x.com/ankit_292001)
 
 I'm always excited to collaborate on **open-source**, **web dev**, or **cybersecurity projects**. Let’s build something amazing!
